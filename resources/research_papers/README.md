@@ -1,1 +1,1 @@
-This folder contains some of the previous research papers on infant cry analysis.
+This folder contains some of the previous research papers on baby cry analysis.
